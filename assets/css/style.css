@@ -1784,3 +1784,30 @@ section {
   background: #3B5998;
   color: white;
 }
+.image_card{
+  max-width: 1500px;
+}
+.work_heading{
+  font-size: 20px;
+  font-weight: 600;
+  color: #000;
+  letter-spacing: 1px;
+}
+.timeline{
+  padding-left: 81px;
+}
+.project_subheads{
+  color: #525252;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 60px;
+}
+.overview{
+  /* padding-left: 30px;
+  max-width: 100%; */
+  padding-top: 27px;
+}
+.source_font{
+  font-size: 14px;
+    font-style: italic;
+}
